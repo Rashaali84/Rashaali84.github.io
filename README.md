@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/30797974/71813942-4bdb5f00-307b-11ea-8bc8-4ae78f0de951.png)
 
-You can use the [editor on GitHub](https://github.com/Rashaali84/Rashaali84.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hello this is Rasha Ali ,
 
-### Markdown
+          I am a software engineer , with a BSC in computer engineering , I am so happy to join HYF belgium , 
+     it is really an honor to meet you all and meet all my collegues last Sunday , 
+     I really enjoyed my time and the coaches were amazing and so professional !
+     
+*Here is a `small brief` small of my past experience*:
+*  C# and Microsoft SQL Server Well versed with .NET technologies like ASP.NET, ADO.NET and AJAX, Development and support of windows/web-based Applications , End-to-End software development life cycle experience (SDLC),Hands on experience in database technologies Microsoft SQL Server.
+*  ISTQB CTFL (International Software Testing Qualifications Board), Officially certified  tester foundation level .
+* 	Primary Knowledge Manual & Automated Testing for Software Quality Assurance (SQA),Primary Knowledge in Open-Source Automation Tools (Selenium)
+looking forward to work with you all soon , Thank you !
+***
+*Here is some courses I took so far *:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| courses        | Year           | 
+| ------------- |:-------------:| 
+| ISTQB      | 2017 |
+| IELTS    | 2017     |  
+| asp.net/MVC |  2018  | 
 
-```markdown
-Syntax highlighted code block
+### Here is a link to **my git hub link** for more communication :relaxed: [click here for my github link](https://github.com/Rashaali84) 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rashaali84/Rashaali84.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
