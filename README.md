@@ -13,8 +13,7 @@
 *  ISTQB CTFL (International Software Testing Qualifications Board), Officially certified  tester foundation level .
 * 	Primary Knowledge Manual & Automated Testing for Software Quality Assurance (SQA),Primary Knowledge in Open-Source Automation Tools (Selenium)
 looking forward to work with you all soon , Thank you !
-***
-*Here is some courses I took so far*:
+*Here is some courses I took so far:*
 
 | courses        | Year           | 
 | ------------- |:-------------:| 
