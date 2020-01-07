@@ -2,7 +2,7 @@
 
 
 ### Hello this is Rasha Ali ,
-[check out my personal full resume](./myhtmlproto.html)
+[check out my personal website !](./myhtmlproto.html)
           I am a software engineer , with a BSC in computer engineering ,I am so happy to join HYF belgium ,
       it is really an honor to meet you all and meet all my colleagues last Sunday , 
      I really enjoyed my time and the coaches were amazing and so professional ! Please check my website ! 
