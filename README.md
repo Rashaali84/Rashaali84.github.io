@@ -3,10 +3,10 @@
 
 ### Hello this is Rasha Ali ,
 
-          I am a software engineer , with a BSC in computer engineering , 
-          I am so happy to join HYF belgium , 
-     it is really an honor to meet you all and meet all my colleagues last Sunday , 
-     I really enjoyed my time and the coaches were amazing and so professional !
+          *I am a software engineer , with a BSC in computer engineering , 
+         *I am so happy to join HYF belgium , 
+     *it is really an honor to meet you all and meet all my colleagues last Sunday , 
+     *I really enjoyed my time and the coaches were amazing and so professional !
      
 *Here is a `small brief`  of my past experience*:
 *  C# and Microsoft SQL Server Well versed with .NET technologies like ASP.NET, ADO.NET and AJAX, Development and support of windows/web-based Applications , End-to-End software development life cycle experience (SDLC),Hands on experience in database technologies Microsoft SQL Server.
