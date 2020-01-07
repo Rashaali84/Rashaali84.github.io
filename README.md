@@ -22,5 +22,5 @@ looking forward to work with you all soon , Thank you !
 | IELTS    | 2017     |  
 | asp.net/MVC |  2018  | 
 
-### Here is a link to **my git hub link** for more communication :relaxed: [click here for my github link](https://github.com/Rashaali84) 
+### Here is a link to **my git hub link** for more communication : :) [click here for my github link](https://github.com/Rashaali84) 
 
