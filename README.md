@@ -5,7 +5,7 @@
 
           I am a software engineer , with a BSC in computer engineering , 
           I am so happy to join HYF belgium , 
-     it is really an honor to meet you all and meet all my collegues last Sunday , 
+     it is really an honor to meet you all and meet all my colleagues last Sunday , 
      I really enjoyed my time and the coaches were amazing and so professional !
      
 *Here is a `small brief`  of my past experience*:
