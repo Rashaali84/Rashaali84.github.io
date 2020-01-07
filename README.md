@@ -2,13 +2,13 @@
 
 
 ### Hello this is Rasha Ali ,
-
+[check out my personal full resume](./myhtmlproto.html)
           I am a software engineer , with a BSC in computer engineering ,I am so happy to join HYF belgium ,
       it is really an honor to meet you all and meet all my colleagues last Sunday , 
      I really enjoyed my time and the coaches were amazing and so professional ! Please check my website ! 
 
      
-*Here is a `small brief`  of my past experience*:[I'm a relative reference to a repository file](./myhtmlproto.html)
+*Here is a `small brief`  of my past experience*:
 *  C# and Microsoft SQL Server Well versed with .NET technologies like ASP.NET, ADO.NET and AJAX, Development and support of windows/web-based Applications , End-to-End software development life cycle experience (SDLC),Hands on experience in database technologies Microsoft SQL Server.
 *  ISTQB CTFL (International Software Testing Qualifications Board), Officially certified  tester foundation level .
 * 	Primary Knowledge Manual & Automated Testing for Software Quality Assurance (SQA),Primary Knowledge in Open-Source Automation Tools (Selenium)
