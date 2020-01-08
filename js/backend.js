@@ -63,8 +63,9 @@ function sendMail() {
     alert("Action is Cancelled!");
 }
 }*/
+alert("0");
 var nodemailer = require('nodemailer');
-
+alert("1");
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
@@ -72,18 +73,20 @@ var transporter = nodemailer.createTransport({
     pass: 'foolversion'
   }
 });
-
+alert("2");
 var mailOptions = {
   from: 'rashaali84@gmail.com',
   to: document.getElementsByName('demail').text,
   subject: 'Sending Email using Node.js',
   text: 'That was easy!'
 };
-
+alert("3");
 transporter.sendMail(mailOptions, function(error, info){
   if (error) {
     console.log(error);
   } else {
     console.log('Email sent: ' + info.response);
   }
-})};
+})
+alert("4");
+};
