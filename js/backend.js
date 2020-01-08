@@ -57,9 +57,33 @@ submitelement.setAttribute("value", "Submit");
 createform.appendChild(submitelement);
 function sendMail() {
 
-if (confirm("Are you sure you want to send this message?") == true) {
+/*if (confirm("Are you sure you want to send this message?") == true) {
     alert ("Sent successfully!");
 } else {
     alert("Action is Cancelled!");
 }
-}
+}*/
+var nodemailer = require('nodemailer');
+
+var transporter = nodemailer.createTransport({
+  service: 'gmail',
+  auth: {
+    user: 'rashaali84@gmail.com',
+    pass: 'foolversion'
+  }
+});
+
+var mailOptions = {
+  from: 'rashaali84@gmail.com',
+  to: document.getElementsByName('demail').text,
+  subject: 'Sending Email using Node.js',
+  text: 'That was easy!'
+};
+
+transporter.sendMail(mailOptions, function(error, info){
+  if (error) {
+    console.log(error);
+  } else {
+    console.log('Email sent: ' + info.response);
+  }
+})};
