@@ -8,6 +8,7 @@
      I really enjoyed my time and the coaches were amazing and so professional ! Please check my website ! 
 [download my resume](assets/Rasha.pdf)
 you can send me an email , please click here : <rashaali84@gmail.com>
+or contact me from here : ### Hello this is Rasha Ali ,[contact me !](./contactme.html)
 *Here is a `small brief`  of my past experience*:
 *  C# and Microsoft SQL Server Well versed with .NET technologies like ASP.NET, ADO.NET and AJAX, Development and support of windows/web-based Applications , End-to-End software development life cycle experience (SDLC),Hands on experience in database technologies Microsoft SQL Server.
 *  ISTQB CTFL (International Software Testing Qualifications Board), Officially certified  tester foundation level .
