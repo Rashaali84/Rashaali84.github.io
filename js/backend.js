@@ -1,7 +1,7 @@
 // Fetching HTML Elements in Variables by ID.
 var x = document.getElementById("form_main");
 var createform = document.createElement('form'); // Create New Element Form
-createform.setAttribute("action", ""); // Setting Action Attribute on Form
+createform.setAttribute("action", "javascript:sendMail();"); // Setting Action Attribute on Form
 createform.setAttribute("method", "post"); // Setting Method Attribute on Form
 x.appendChild(createform);
 
@@ -55,3 +55,6 @@ submitelement.setAttribute("type", "submit");
 submitelement.setAttribute("name", "dsubmit");
 submitelement.setAttribute("value", "Submit");
 createform.appendChild(submitelement);
+function sendMail() {
+    window.open('mailto:'+emailelement.innerText);
+}
