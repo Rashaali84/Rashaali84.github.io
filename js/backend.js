@@ -57,13 +57,13 @@ submitelement.setAttribute("value", "Submit");
 createform.appendChild(submitelement);
 function sendMail() {
 
-/*if (confirm("Are you sure you want to send this message?") == true) {
+if (confirm("Are you sure you want to send this message?") == true) {
     alert ("Sent successfully!");
 } else {
     alert("Action is Cancelled!");
 }
-}*/
-alert("0");
+}
+/*alert("0");
 var nodemailer = require('nodemailer');
 alert("1");
 var transporter = nodemailer.createTransport({
@@ -89,4 +89,4 @@ transporter.sendMail(mailOptions, function(error, info){
   }
 })
 alert("4");
-};
+};*/
