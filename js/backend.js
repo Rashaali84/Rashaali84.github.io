@@ -56,5 +56,10 @@ submitelement.setAttribute("name", "dsubmit");
 submitelement.setAttribute("value", "Submit");
 createform.appendChild(submitelement);
 function sendMail() {
-    window.open('mailto:'+emailelement.innerText);
+
+if (confirm("Are you sure you want to send this message?") == true) {
+    alert ("Sent successfully!");
+} else {
+    alert("Action is Cancelled!");
+}
 }
