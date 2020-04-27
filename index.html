@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Rasha Ali Portfolio</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      window.onload = () => import("./app/controllers/handlers.js");
+    </script>
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button
+            type="button"
+            class="navbar-toggle"
+            data-toggle="collapse"
+            data-target="#myNavbar"
+          >
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Portfolio</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact-me.html">Contact</a></li>
+            <li>
+              <a href="assets/Rasha Ali Software Engineer CV.docx" download>
+                Download CV
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="jumbotron">
+      <div class="container text-center">
+        <h1>Rasha Ali</h1>
+        <p>Software Developer (C#,.Net,Ms-SQL,MVC,JS/node.js,HTML,CSS)</p>
+        <img
+          id="bio-img"
+          width="140"
+          height="140"
+          border="0"
+          class="img-circle"
+          alt="..."
+        />
+        <p id="bio"></p>
+        <!--Facebook-->
+        <button type="button" class="btn btn-fb">
+          <a
+            href="https://www.facebook.com/rasha.ali.5667"
+            class="fa fa-facebook"
+          ></a>
+        </button>
+        <!--Google +-->
+        <button type="button" class="btn btn-gplus">
+          <a href="www.gmail.com" class="fa fa-google"></a>
+        </button>
+        <!--Linkedin-->
+        <button type="button" class="btn btn-li">
+          <a
+            href="https://www.linkedin.com/in/rasha-ali/"
+            class="fa fa-linkedin"
+          ></a>
+        </button>
+      </div>
+    </div>
+
+    <div class="container-fluid bg-3 text-center">
+      <div class="row" id="proj-container"></div>
+    </div>
+    <br />
+    <br />
+
+    <footer class="container-fluid text-center">
+      <p>Rasha Ali Portfolio</p>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
