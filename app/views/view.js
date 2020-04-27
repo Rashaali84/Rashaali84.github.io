@@ -11,7 +11,7 @@ export default class view {
 
         const projectContainer = document.getElementById('proj-container');
         let html = '';
-        html += `<h3>My total number of projects on github : ${bioObj.public_repos_count}</h3><br/><br/>`;
+        html += `<h5>My total number of projects on github : ${bioObj.public_repos_count}</h5><br/><br/>`;
         bioObj.repoList.forEach(element => {
 
             html += `<div class="col-sm-3">
