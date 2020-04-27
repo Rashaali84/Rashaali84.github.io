@@ -1,6 +1,6 @@
 export default class view {
     static displayBio(bioObj) {
-        debugger;
+
         const bio = document.getElementById('bio');
         bio.innerText = bioObj.bio;
         const bioImg = document.getElementById('bio-img');
@@ -8,7 +8,7 @@ export default class view {
 
     }
     static displayProjectList(bioObj) {
-        debugger;
+
         const projectContainer = document.getElementById('proj-container');
         let html = '';
         html += `<h3>My total number of projects on github : ${bioObj.public_repos_count}</h3><br/><br/>`;

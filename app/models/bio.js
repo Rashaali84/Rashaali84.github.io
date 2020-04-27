@@ -16,7 +16,7 @@ export default class bio {
     async getPersonalDetails(bioObj) {
         //https://api.github.com/users/rashaali84
         try {
-            debugger;
+
             let response = await fetch(`https://api.github.com/users/${bioObj.name}`);
             let data = await response.json();
             return data;
@@ -26,7 +26,7 @@ export default class bio {
     }
     //get personal details 
     async getPublicRepotList(bioObj) {
-        debugger;
+
         //https://api.github.com/users/Rashaali84/repos
         try {
             let response = await fetch(`https://api.github.com/users/${bioObj.login}/repos`);

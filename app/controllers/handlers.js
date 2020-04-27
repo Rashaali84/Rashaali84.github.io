@@ -20,7 +20,7 @@ class handlers {
         });
         //call another api to fetch list of projects 
         await myBio.getPublicRepotList(myBio).then(dataFetched => {
-            debugger;
+            
             //fill the list of projects in the myBio object
             dataFetched.forEach(function (projItem) {
                 myBio.repoList.push(projItem);
