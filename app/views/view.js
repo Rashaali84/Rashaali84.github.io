@@ -11,11 +11,11 @@ export default class view {
 
         const projectContainer = document.getElementById('proj-container');
         let html = '';
-        html += `<h5>My total number of projects on github : ${bioObj.public_repos_count}</h5><br/><br/>`;
+        html += `<h4>My total number of projects on github : ${bioObj.public_repos_count}</h4><br/><br/>`;
         bioObj.repoList.forEach(element => {
 
             html += `<div class="col-sm-3">
-            <h6>${element.name}</h>
+            <h>${element.name}</h>
             <a href=${element.html_url === null ? 'https://github.com/Rashaali84' : element.html_url}>
             <img
                 src="assets/repo-icon.jpg"
