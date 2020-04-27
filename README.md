@@ -1,27 +1,18 @@
-![image](https://user-images.githubusercontent.com/30797974/71813942-4bdb5f00-307b-11ea-8bc8-4ae78f0de951.png)
+# Portfolio Project :
 
+A dynamic web page for an application built with only HTML, CSS & node.js. This project uses a data-set `api github`as back-end set to fetch the list of repos amd personal data , to display to the user .
 
-### Hello this is Rasha Ali ,
-[Check out my personal website !](./myhtmlproto.html)
-          I am a software engineer , with a BSC in computer engineering ,I am so happy to join HYF belgium ,
-      it is really an honor to meet you all and meet all my colleagues last Sunday , 
-     I really enjoyed my time and the coaches were amazing and so professional ! Please check my website ! 
-[download my resume](assets/Rasha.pdf)
-you can send me an email , please click here : <rashaali84@gmail.com>
-or contact me from here :[contact me !](./contactme.html)
-*Here is a `small brief`  of my past experience*:
-*  C# and Microsoft SQL Server Well versed with .NET technologies like ASP.NET, ADO.NET and AJAX, Development and support of windows/web-based Applications , End-to-End software development life cycle experience (SDLC),Hands on experience in database technologies Microsoft SQL Server.
-*  ISTQB CTFL (International Software Testing Qualifications Board), Officially certified  tester foundation level .
-* 	Primary Knowledge Manual & Automated Testing for Software Quality Assurance (SQA),Primary Knowledge in Open-Source Automation Tools (Selenium)
-looking forward to work with you all soon , Thank you !
-*Here is some courses I took so far:*
+[![potofolio Project screen shot](./assets/screenshot.png)](https://rashaali84.github.io/index.html)
 
+---
 
-| courses        | Year           | 
-| ------------- |:-------------:| 
-| ISTQB      | 2017 |
-| IELTS    | 2017     |  
-| asp.net/MVC |  2018  | 
+## Notes
 
-### Here is a link to **my git hub link** for more communication : :) [click here for my github link](https://github.com/Rashaali84) 
+Studying this project I have learned and done the following :
 
+- Use ES6 `class`es
+- Use `fetch`
+- use `import`,`export`
+- Be in the `/app` folder
+- Build from `/index.html`
+- Be built in steps with branches, issues, and a project board.
