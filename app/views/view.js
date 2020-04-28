@@ -21,7 +21,7 @@ export default class view {
         this.bioObj.repoList.forEach(element => {
 
             html += `<div class="col-sm-3">
-            <h>${element.name}</h>
+            <h6>${element.name}</h6>
             <a href=${element.html_url === null ? 'https://github.com/Rashaali84' : element.html_url}>
             <img
                 src="assets/repo-icon.jpg"
