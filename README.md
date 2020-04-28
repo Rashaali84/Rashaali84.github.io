@@ -1,4 +1,4 @@
-# Portfolio Project :
+# Portfolio : 
 
 A dynamic web page for an application built with only HTML, CSS & node.js. This project uses a data-set `api github`as back-end set to fetch the list of repos amd personal data , to display to the user .
 
