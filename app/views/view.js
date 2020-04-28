@@ -1,18 +1,24 @@
 export default class view {
-    static displayBio(bioObj) {
+
+    bioObj = null;
+
+    constructor(bioObjIn) {
+        this.bioObj = bioObjIn;
+    }
+    displayBio() {
 
         const bio = document.getElementById('bio');
-        bio.innerText = bioObj.bio;
+        bio.innerText = this.bioObj.bio;
         const bioImg = document.getElementById('bio-img');
-        bioImg.src = bioObj.avatar_url;
+        bioImg.src = this.bioObj.avatar_url;
 
     }
-    static displayProjectList(bioObj) {
+    displayProjectList() {
 
         const projectContainer = document.getElementById('proj-container');
         let html = '';
-        html += `<h4>My total number of projects on github : ${bioObj.public_repos_count}</h4><br/><br/>`;
-        bioObj.repoList.forEach(element => {
+        html += `<h4>My total number of projects on github : ${this.bioObj.public_repos_count}</h4><br/><br/>`;
+        this.bioObj.repoList.forEach(element => {
 
             html += `<div class="col-sm-3">
             <h>${element.name}</h>

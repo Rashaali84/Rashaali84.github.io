@@ -20,15 +20,16 @@ class handlers {
         });
         //call another api to fetch list of projects 
         await myBio.getPublicRepotList(myBio).then(dataFetched => {
-            
+
             //fill the list of projects in the myBio object
             dataFetched.forEach(function (projItem) {
                 myBio.repoList.push(projItem);
             });
-            //call view functions to display results and pass on bio object
+            //call view class to display results and pass on bio object
             console.log(myBio);
-            viewModule.displayBio(myBio);
-            viewModule.displayProjectList(myBio);
+            const view = new viewModule(myBio);
+            view.displayBio();
+            view.displayProjectList();
         });
     }
 }
