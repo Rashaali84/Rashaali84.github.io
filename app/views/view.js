@@ -1,5 +1,5 @@
 export default class view {
-
+ 
     bioObj = null;
 
     constructor(bioObjIn) {
